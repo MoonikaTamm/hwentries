@@ -2,3 +2,4 @@
 - ~~30 days left~~
 - ~~**29 days left**~~
 - ~~***28 days left***~~
+- ~~*27 days left*~~
