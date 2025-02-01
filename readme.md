@@ -5,3 +5,4 @@
 - ~~*27 days left*~~
 - ~~`26 days left`~~
 - ~~***`25 days left`***~~
+- ~~*`24 days left `*~~
